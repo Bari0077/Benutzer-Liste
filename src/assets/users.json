@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Benutzer 1",
+    "birthday": "1990-01-15"
+  },
+  {
+    "name": "Benutzer 2",
+    "birthday": "1983-07-28"
+  },
+    {
+    "name": "Benutzer 3",
+    "birthday": "1994-11-13"
+  },
+    {
+    "name": "Benutzer 4",
+    "birthday": "1996-05-20"
+  },
+    {
+    "name": "Benutzer 5",
+    "birthday": "2001-08-02"
+  },
+    {
+    "name": "Benutzer 6",
+    "birthday": "1974-02-12"
+  },
+    {
+    "name": "Benutzer 7",
+    "birthday": "1985-02-05"
+  },
+    {
+    "name": "Benutzer 8",
+    "birthday": "1999-03-24"
+  },
+    {
+    "name": "Benutzer 9",
+    "birthday": "1993-04-06"
+  },
+    {
+    "name": "Benutzer 10",
+    "birthday": "1988-06-21"
+  }
+]
